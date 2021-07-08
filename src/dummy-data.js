@@ -1,7 +1,7 @@
 const dummyData = [
     {
         username: "philzcoffee",
-        thumbnailUrl: 'https://instagram.fsjo9-1.fna.fbcdn.net/vp/d4728e507fe1eb2895fb7ca394bb6431/5E4122B1/t51.2885-15/s150x150/71118783_2434459423505735_6295784028176668008_n.jpg?_nc_ht=instagram.fsjo9-1.fna.fbcdn.net',
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
         imageUrl: 'https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80',
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
@@ -42,6 +42,27 @@ const dummyData = [
             {
                 username: "dennis_futbol",
                 text: "It that injustice"
+            }
+        ]
+    },
+    {
+        username: "jammerPants",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://the-public-domain-review.imgix.net/essays/lofty-only-in-sound-crossed-wires-and-community-in-19th-century-dreams/33474493220_9f814da9f9_c.jpg?fit=max&w=1200&h=850',
+        likes: 400,
+        timestamp: "July 17th 2017, 12:42:40 pm",
+        comments: [
+            {
+                username: "sumFoo",
+                text: "It's all good!!"
+            },
+            {
+                username: "doubleTap",
+                text: "It's too much fun!"
+            },
+            {
+                username: "noontimedrinker",
+                text: "I'd go."
             }
         ]
     }
